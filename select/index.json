@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BLAZY BLAZE",
+  "base_artist": "ZIPANG OPERA",
+  "createdAt": "2026-02-09T20:38:57.112949Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BLAZY BLAZE",
+      "artist": "ZIPANG OPERA",
+      "has_synced": false,
+      "path": "select/pl_01_BLAZY_BLAZE_ZIPANG_OPERA.txt"
+    }
+  ]
+}
